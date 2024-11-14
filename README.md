@@ -1,4 +1,4 @@
-# Ex-6 Restaurant Website
+# Ex-07 Restaurant Website
 ## Date:
 
 ## AIM:
